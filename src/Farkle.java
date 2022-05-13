@@ -8,6 +8,7 @@ import java.util.Random;
 import javax.swing.*;
 
 public class Farkle {
+	//Comment somewhere
 	private static int totalScore;
 	private static int roundScore;
 	static Random rgen = new Random();
